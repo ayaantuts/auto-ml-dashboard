@@ -199,7 +199,6 @@ if uploaded_file is not None:
 else:
     st.title("Welcome to the Auto-ML Dashboard!")
     st.info("Upload a CSV file to get started.")
-    st.image("https.streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png", width=400)
     st.markdown("""
     This app allows you to:
     - **Upload** your own dataset.
