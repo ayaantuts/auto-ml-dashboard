@@ -2,7 +2,10 @@
 
 An interactive Streamlit web app that lets you upload any CSV file, automatically trains a machine learning model (classification or regression), and provides a 'What-If' simulator for instant predictions.
 
-![Dashboard Screenshot](demo.gif)
+![Dashboard](screenshots/dashboard.png)
+![Model Results](screenshots/model.png)
+![Feature Importance](screenshots/feature.png)
+![What If Simulation](screenshots/what-if.png)
 
 ---
 
